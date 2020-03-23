@@ -1,0 +1,7 @@
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioII\CAI_EjercicioII\CAI_EjercicioII\bin\Debug\CAI_EjercicioII.exe.config
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioII\CAI_EjercicioII\CAI_EjercicioII\bin\Debug\CAI_EjercicioII.exe
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioII\CAI_EjercicioII\CAI_EjercicioII\bin\Debug\CAI_EjercicioII.pdb
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioII\CAI_EjercicioII\CAI_EjercicioII\obj\Debug\CAI_EjercicioII.csprojAssemblyReference.cache
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioII\CAI_EjercicioII\CAI_EjercicioII\obj\Debug\CAI_EjercicioII.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioII\CAI_EjercicioII\CAI_EjercicioII\obj\Debug\CAI_EjercicioII.exe
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioII\CAI_EjercicioII\CAI_EjercicioII\obj\Debug\CAI_EjercicioII.pdb
